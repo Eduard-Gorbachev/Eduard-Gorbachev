@@ -6,24 +6,10 @@ Data Scientist, ищу возможности для профессиональ�
 
 ## 🛠 Технические навыки
 
-#### Языки и инструменты:
+Языки и инструменты: Python, SQL, Jupyter Notebook, Git, PostgreSQL, PySpark
+Библиотеки и фреймворки: Pandas, NumPy, Scikit-learn, PyTorch, Keras, CatBoost, XGBoost, LightGBM, NLTK, Seaborn, Matplotlib
+Технологии: ML, Deep Learning, Computer Vision, Big Data, PySpark, PostgreSQL
 
-- Python, SQL, Jupyter Notebook, GitHub
-- PostgreSQL, PySpark
-
-#### Библиотеки и фреймворки:
-
-- Pandas, NumPy, Scikit-learn
-- PyTorch, CatBoost, XGBoost, LightGBM
-- NLTK, Seaborn, Matplotlib
-
-#### Ключевые компетенции:
-
-- Машинное обучение и deep learning
-- Компьютерное зрение
-- Анализ временных рядов
-- Обработка текстовых данных
-- Статистический анализ
 
 ## 📧 Контакты
 
